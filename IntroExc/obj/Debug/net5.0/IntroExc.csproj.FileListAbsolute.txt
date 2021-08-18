@@ -1,0 +1,16 @@
+C:\Users\Adam\Documents\Visual Studio 2019\IntroExc\IntroExc\bin\Debug\net5.0\IntroExc.exe
+C:\Users\Adam\Documents\Visual Studio 2019\IntroExc\IntroExc\bin\Debug\net5.0\IntroExc.deps.json
+C:\Users\Adam\Documents\Visual Studio 2019\IntroExc\IntroExc\bin\Debug\net5.0\IntroExc.runtimeconfig.json
+C:\Users\Adam\Documents\Visual Studio 2019\IntroExc\IntroExc\bin\Debug\net5.0\IntroExc.runtimeconfig.dev.json
+C:\Users\Adam\Documents\Visual Studio 2019\IntroExc\IntroExc\bin\Debug\net5.0\IntroExc.dll
+C:\Users\Adam\Documents\Visual Studio 2019\IntroExc\IntroExc\bin\Debug\net5.0\ref\IntroExc.dll
+C:\Users\Adam\Documents\Visual Studio 2019\IntroExc\IntroExc\bin\Debug\net5.0\IntroExc.pdb
+C:\Users\Adam\Documents\Visual Studio 2019\IntroExc\IntroExc\obj\Debug\net5.0\IntroExc.csproj.AssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2019\IntroExc\IntroExc\obj\Debug\net5.0\IntroExc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\Documents\Visual Studio 2019\IntroExc\IntroExc\obj\Debug\net5.0\IntroExc.AssemblyInfoInputs.cache
+C:\Users\Adam\Documents\Visual Studio 2019\IntroExc\IntroExc\obj\Debug\net5.0\IntroExc.AssemblyInfo.cs
+C:\Users\Adam\Documents\Visual Studio 2019\IntroExc\IntroExc\obj\Debug\net5.0\IntroExc.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Documents\Visual Studio 2019\IntroExc\IntroExc\obj\Debug\net5.0\IntroExc.dll
+C:\Users\Adam\Documents\Visual Studio 2019\IntroExc\IntroExc\obj\Debug\net5.0\ref\IntroExc.dll
+C:\Users\Adam\Documents\Visual Studio 2019\IntroExc\IntroExc\obj\Debug\net5.0\IntroExc.pdb
+C:\Users\Adam\Documents\Visual Studio 2019\IntroExc\IntroExc\obj\Debug\net5.0\IntroExc.genruntimeconfig.cache
