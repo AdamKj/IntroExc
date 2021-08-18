@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adam\\Documents\\Visual Studio 2019\\IntroExc\\IntroExc\\IntroExc.csproj",
+      "projectUniqueName": "C:\\Users\\Adam\\Documents\\Visual Studio 2019\\IntroExc2\\IntroExc\\IntroExc.csproj",
       "projectName": "IntroExc",
-      "projectPath": "C:\\Users\\Adam\\Documents\\Visual Studio 2019\\IntroExc\\IntroExc\\IntroExc.csproj",
+      "projectPath": "C:\\Users\\Adam\\Documents\\Visual Studio 2019\\IntroExc2\\IntroExc\\IntroExc.csproj",
       "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adam\\Documents\\Visual Studio 2019\\IntroExc\\IntroExc\\obj\\",
+      "outputPath": "C:\\Users\\Adam\\Documents\\Visual Studio 2019\\IntroExc2\\IntroExc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
